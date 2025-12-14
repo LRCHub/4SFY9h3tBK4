@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ミラクルペイント",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-14T16:05:47.598804Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミラクルペイント",
+      "artist": "OSTER project feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/01_ミラクルペイント_OSTER_project_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミラクルペイント (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_ミラクルペイント_(feat._天馬司&鳳えむ&草薙寧々&神代類&初音ミク)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミラクルペイント",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク",
+      "has_synced": true,
+      "path": "select/03_ミラクルペイント_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミラクルペイント",
+      "artist": "OSTER project feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_ミラクルペイント_OSTER_project_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミラクルペイント",
+      "artist": "OSTER Project",
+      "has_synced": true,
+      "path": "select/05_ミラクルペイント_OSTER_Project.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミラクルペイント",
+      "artist": "OSTER project",
+      "has_synced": true,
+      "path": "select/06_ミラクルペイント_OSTER_project.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミラクルペイント",
+      "artist": "OSTER project feat.初音ミク",
+      "has_synced": false,
+      "path": "select/07_ミラクルペイント_OSTER_project_feat.初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミラクルペイント",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_ミラクルペイント_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
